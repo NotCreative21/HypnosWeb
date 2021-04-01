@@ -1,7 +1,7 @@
 
-# https://Hypnos.us.to
+# http://Hypnos.ws
 Hypnos is a technical server focusing on innovative and more efficient ways to complete automated task in minecraft.
 Currently under development
 
-# DM: NotCreative#9884
+Created by: NotCreative#0041 & samipourquoi#9267
 
